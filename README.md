@@ -27,9 +27,7 @@ to know about the Usage.
 
   Refer the YouTube Video to understand the Usage. 
 
-# Plans #
 
-My next plan is to bring an update in this application that will ask input of both the plain text and the corresponding cipher text from users,and generate the corresponding key used to encrypt.
 
 # License #
 
