@@ -4,7 +4,8 @@
 
 # Introduction #
 
-Cipher Master is an online user friendly toolkit that can be used to encrypt a Plain Text or Decrypt a Cipher Text as per a particular key. Definitely check this [YouTube Video](url) 
+Cipher Master is an online user friendly toolkit that can be used to encrypt a Plain Text or Decrypt a Cipher Text as per a particular key. Also after the new updat, users can enter the plain text and the corresponding cipher text to calculate the key used for encryption of the plain text. 
+Definitely check this [YouTube Playllist](url) 
 to know about the Usage.
 
 # Motivation #
