@@ -19,4 +19,4 @@ Users can now make Input of the Plain text and the corresponding Cipher Text. Th
 
 
 
-Check the YouTube Playlist in the Introductory Readme file of this Repo. And Check this [YouTube video](url) to Understand the usage. 
+Check the YouTube Playlist in the Introductory Readme file of this Repo. And Check this [YouTube video](https://youtu.be/0zLfJMag1Dk) to Understand the usage. 
