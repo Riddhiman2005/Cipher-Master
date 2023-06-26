@@ -4,8 +4,9 @@
 
 # Introduction #
 
-Cipher Master is an online user friendly toolkit that can be used to encrypt a Plain Text or Decrypt a Cipher Text as per a particular key. Also after the new updat, users can enter the plain text and the corresponding cipher text to calculate the key used for encryption of the plain text. 
-Definitely check this [YouTube Playllist](url) 
+Cipher Master is an application that takes as input a plain/ cipher text & a key, and outputs the encrypted/decrypted text.
+Als,o it takes both plain & Cipher text as input and displays the key used for encrypting/decrypting.
+Definitely check this [YouTube Playlist](https://www.youtube.com/playlist?list=PL8UgiekZNpwL72IDtOb5PxggPuzGi3vSJ) 
 to know about the Usage.
 
 # Motivation #
@@ -19,14 +20,6 @@ to know about the Usage.
 -CSS: Used for styling the application and creating an appealing visual interface.<br>
 -HTML: Used for structuring the page and organizing the different elements.<br>
 -JavaScript: Used for handling the encrypting- decrypting logic <br>
-
-# Usage #
-
-- Write the Text either in the "Encrypt" or in "Decrypt" column
-- Add the key according to your wish
-- Then Click "Encrypt" or "Decrypt" according to the task you want to perform
-
-  Refer the YouTube Video to understand the Usage. 
 
 
 
