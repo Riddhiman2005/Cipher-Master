@@ -16,9 +16,9 @@ to know about the Usage.
 
 # Languages Used # 
 
--CSS: Used for styling the application and creating an appealing visual interface.
--HTML: Used for structuring the page and organizing the different elements.
--JavaScript: Used for handling the encrypting- decrypting logic 
+-CSS: Used for styling the application and creating an appealing visual interface.<br>
+-HTML: Used for structuring the page and organizing the different elements.<br>
+-JavaScript: Used for handling the encrypting- decrypting logic <br>
 
 # Usage #
 
