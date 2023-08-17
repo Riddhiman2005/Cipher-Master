@@ -5,7 +5,7 @@
 # Introduction #
 
 Cipher Master is an application that takes as input a plain/ cipher text & a key, and outputs the encrypted/decrypted text.
-Als,o it takes both plain & Cipher text as input and displays the key used for encrypting/decrypting.
+Also, it takes both plain & Cipher text as input and displays the key used for encrypting/decrypting.
 Definitely check this [YouTube Playlist](https://www.youtube.com/playlist?list=PL8UgiekZNpwL72IDtOb5PxggPuzGi3vSJ) 
 to know about the Usage.
 
